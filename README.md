@@ -1,8 +1,21 @@
-# React + Vite
+# Project Name
+NearbyPilotFinder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+NearbyPilotFinder is a web application developed using the MERN stack that helps users find nearby drone pilots based on project location requirements. The application utilizes geographical calculations and distance measurement algorithms to identify pilots within a specified distance threshold from the project location. It provides users with a list of nearby pilots, including their contact information and availability.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [Contributing](#contributing)
+4. [License](#license)
+
+## Installation
+
+Describe how to install your project. Include prerequisites and steps to set up dependencies.
+
+```bash
+npm install
+npm run dev
+```
