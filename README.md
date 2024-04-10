@@ -8,7 +8,7 @@ NearbyPilotFinder
 
 ## Video 
 
-<video controls src="./src/assets/video.mp4" title="Title"></video>
+Video[https://drive.google.com/file/d/1kmh2uGaLPN7krvnCuJINIhj9mRtiDH2N/view?usp=sharing]
 
 ## Description
 NearbyPilotFinder is a web application developed using the MERN stack that helps users find nearby drone pilots based on project location requirements. The application utilizes geographical calculations and distance measurement algorithms to identify pilots within a specified distance threshold from the project location. It provides users with a list of nearby pilots, including their contact information and availability.
